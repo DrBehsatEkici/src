@@ -1,0 +1,12 @@
+package day29_ArrayList;
+
+public class x {
+
+    public static void main(String[] args) {
+
+        System.out.println("java"+ 10+20);
+        System.out.println("java"+ 10*20);
+    }
+
+
+}
